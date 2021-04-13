@@ -1,1 +1,1 @@
-# Clock_display
+this code displays a simple clock
